@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[90],{6090:function(n,a,s){s.r(a),s.d(a,{default:function(){return c}});var t=function(){var n=this,a=n._self._c;return a("div",{staticClass:"params"},[n._v(" 广告分类 ")])},u=[],e={name:"Params",components:{}},l=e,r=s(1001),p=(0,r.Z)(l,t,u,!1,null,null,null),c=p.exports}}]);
+//# sourceMappingURL=90.c39fd04c.js.map

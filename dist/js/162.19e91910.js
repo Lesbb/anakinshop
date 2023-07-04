@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[162],{7162:function(n,t,u){u.r(t),u.d(t,{default:function(){return p}});var e=function(){var n=this,t=n._self._c;return t("div",{staticClass:"product"},[n._v(" 商品管理 ")])},s=[],c={name:"Product",components:{}},l=c,r=u(1001),a=(0,r.Z)(l,e,s,!1,null,null,null),p=a.exports}}]);
+//# sourceMappingURL=162.19e91910.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_app"]=self["webpackChunkmy_app"]||[]).push([[701],{5701:function(n,t,e){e.r(t),e.d(t,{default:function(){return p}});var u=function(){var n=this,t=n._self._c;return t("div",{staticClass:"ADcategory"},[n._v(" 规格参数 ")])},a=[],s={name:"ADCategory",components:{}},l=s,r=e(1001),c=(0,r.Z)(l,u,a,!1,null,null,null),p=c.exports}}]);
+//# sourceMappingURL=701.4484abfe.js.map
